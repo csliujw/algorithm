@@ -24,4 +24,22 @@ public class _04_findNumberIn2DArray {
         return false;
     }
 
+    /**
+     * 暴力双重 for,效率好像更高，cache 缓存
+     */
+    public boolean findNumberIn2DArray(int[][] matrix, int target) {
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[i].length; j++) {
+                if (matrix[i][j] == target) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    public boolean findNumberIn2DArrayLH(int[][] matrix, int target) {
+
+        return false;
+    }
 }
