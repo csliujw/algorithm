@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/ds/stack/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_03_findRepeatNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/_03_findRepeatNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_04_findNumberIn2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/_04_findNumberIn2DArray.java" afterDir="false" />
-    </list>
+    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="leetcode" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,17 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application._03_findRepeatNumber" />
@@ -113,12 +96,24 @@
       <option name="presentableId" value="Default" />
       <updated>1636513922257</updated>
       <workItem from="1636513923429" duration="895000" />
-      <workItem from="1637032637312" duration="8876000" />
+      <workItem from="1637032637312" duration="8920000" />
     </task>
+    <task id="LOCAL-00001" summary="leetcode">
+      <created>1637074215810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637074215810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
