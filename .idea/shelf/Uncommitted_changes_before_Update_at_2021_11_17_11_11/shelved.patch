@@ -1,0 +1,66 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"0b40c694-79d3-4577-bada-18bdee69a63b\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"JsFlowSettings\">\r\n    <service-enabled>true</service-enabled>\r\n    <exe-path />\r\n    <other-services-enabled>true</other-services-enabled>\r\n    <auto-save>true</auto-save>\r\n  </component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"generalSettings\">\r\n      <MavenGeneralSettings>\r\n        <option name=\"mavenHome\" value=\"D:/Program Files/apache-maven-3.6.3\" />\r\n        <option name=\"userSettingsFile\" value=\"D:\\Program Files\\apache-maven-3.6.3\\conf\\settings.xml\" />\r\n      </MavenGeneralSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"20i49Dl8Nus3jdsbwfvveg0Z5em\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"compactDirectories\" value=\"true\" />\r\n    <option name=\"foldersAlwaysOnTop\" value=\"false\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showExcludedFiles\" value=\"false\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showModules\" value=\"false\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/src/com/payphone/interview\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"MavenSettings\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"E:\\algorithm\\src\\com\\payphone\\interview\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"E:\\algorithm\\src\\com\\payphone\\ds\\imgs\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"0b40c694-79d3-4577-bada-18bdee69a63b\" name=\"Changes\" comment=\"\" />\r\n      <created>1636513922257</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1636513922257</updated>\r\n      <workItem from=\"1636513923429\" duration=\"895000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision ba579ba1bb6cd0e16040acd4f4ec20ce34962086)
++++ b/.idea/workspace.xml	(date 1636878308139)
+@@ -10,6 +10,9 @@
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
+   <component name="JsFlowSettings">
+     <service-enabled>true</service-enabled>
+     <exe-path />
+@@ -37,12 +40,12 @@
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/payphone/interview" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="node.js.detected.package.eslint" value="true" />
+     <property name="node.js.detected.package.tslint" value="true" />
+     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
++    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+   <component name="RecentsManager">
+@@ -62,6 +65,10 @@
+       <option name="presentableId" value="Default" />
+       <updated>1636513922257</updated>
+       <workItem from="1636513923429" duration="895000" />
++      <workItem from="1636876479327" duration="20000" />
++      <workItem from="1636877565666" duration="295000" />
++      <workItem from="1636877885980" duration="188000" />
++      <workItem from="1636878254830" duration="54000" />
+     </task>
+     <servers />
+   </component>
+Index: src/com/payphone/ds/array/Array.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.payphone.ds.array;\r\n\r\npublic class Array {\r\n    private int[] data;\r\n    // size指向数组中第一个没有元素的位置\r\n    private int size;\r\n\r\n    public Array() {\r\n        this(16);\r\n        size = 0;\r\n    }\r\n\r\n    public Array(int capacity) {\r\n        data = new int[capacity];\r\n    }\r\n\r\n\r\n    public void addLast(int element) {\r\n        if (data.length == this.size) throw new IllegalArgumentException(\"Add last failed\");\r\n        data[size++] = element;\r\n    }\r\n\r\n\r\n    public void addByIndex(int index, int element) {\r\n        if (this.size == data.length) throw new IllegalArgumentException(\"Add element failed\");\r\n        if (index < 0 || index > size) throw new IllegalArgumentException(\"Add index illegal\");\r\n        // 把位置index 及 index后面的元素统统后移\r\n        for (int i = size - 1; i >= index; i--) data[i + 1] = data[i];\r\n        data[index] = element;\r\n        size++;\r\n    }\r\n\r\n    // 按index移除元素\r\n    public void remove(int index) {\r\n\r\n    }\r\n\r\n    // 按元素移除\r\n    public void removeElement(int element) {\r\n\r\n    }\r\n\r\n    // 移除所有值未element的元素\r\n    public void removeAllElement(int element) {\r\n\r\n    }\r\n\r\n    // 获得某个索引的元素\r\n    public int get(int index) {\r\n        if (index < 0 || index >= this.size)\r\n            throw new IllegalArgumentException(\"get failed, index should >0 && index<size\");\r\n        return this.data[index];\r\n    }\r\n\r\n    // 修改某个索引的数据\r\n    public void set(int index, int element) {\r\n        if (index < 0 || index >= this.size)\r\n            throw new IllegalArgumentException(\"get failed, index should >0 && index<size\");\r\n        this.data[index] = element;\r\n    }\r\n\r\n    public int getSize() {\r\n        return this.size;\r\n    }\r\n\r\n    // 数组的最大容量\r\n    public int getCapacity() {\r\n        return data.length;\r\n    }\r\n\r\n    public void printfAll() {\r\n        System.out.format(\"size=%d, capacity=%d\\n\", this.size, data.length);\r\n        for (int i = 0; i < size; i++) {\r\n            System.out.format(\"%d \\t\", data[i]);\r\n        }\r\n    }\r\n\r\n    public static void main(String[] args) {\r\n        Array array = new Array();\r\n        array.addLast(1);\r\n        array.addLast(2);\r\n        array.addLast(3);\r\n        array.addLast(4);\r\n        array.addByIndex(4, -1);\r\n        array.set(0, 100);\r\n        array.printfAll();\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/payphone/ds/array/Array.java b/src/com/payphone/ds/array/Array.java
+--- a/src/com/payphone/ds/array/Array.java	(revision ba579ba1bb6cd0e16040acd4f4ec20ce34962086)
++++ b/src/com/payphone/ds/array/Array.java	(date 1636877910559)
+@@ -14,8 +14,8 @@
+         data = new int[capacity];
+     }
+ 
+-
+     public void addLast(int element) {
++
+         if (data.length == this.size) throw new IllegalArgumentException("Add last failed");
+         data[size++] = element;
+     }
