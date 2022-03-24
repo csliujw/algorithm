@@ -4,17 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="leetcode" />
+    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="update solutions">
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/lc/simple/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/lc/simple/MoveZero_283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/lc/simple/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/lc/simple/TwoSum_167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/lc/simple/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/lc/simple/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/lc/simple/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/lc/simple/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/lc/simple/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_146_LRU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_03_findRepeatNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/_03_findRepeatNumber.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
-=======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -24,7 +36,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
->>>>>>> 4088b9452e453a9ff635a3311c80372b0f528003
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -45,7 +56,6 @@
     <option name="compactDirectories" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
     <option name="showModules" value="false" />
   </component>
@@ -63,7 +73,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -74,7 +84,33 @@
       <recent name="E:\algorithm\src\com\payphone\ds\imgs" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application._146_LRU">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.lc.simple.BinarySearch" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.payphone.lc.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveZero_283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.lc.simple.MoveZero_283" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.payphone.lc.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_03_findRepeatNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.payphone.offer._03_findRepeatNumber" />
       <module name="algorithm" />
@@ -88,8 +124,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_146_LRU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode._146_LRU" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.payphone.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch.binarySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.payphone.lc.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.payphone.lc.simple" />
+      <option name="MAIN_CLASS_NAME" value="com.payphone.lc.simple.BinarySearch" />
+      <option name="METHOD_NAME" value="binarySearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._146_LRU" />
+        <item itemvalue="Application.MoveZero_283" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="JUnit.BinarySearch.binarySearch" />
         <item itemvalue="Application._03_findRepeatNumber" />
       </list>
     </recent_temporary>
@@ -104,6 +184,12 @@
       <updated>1636513922257</updated>
       <workItem from="1636513923429" duration="895000" />
       <workItem from="1637032637312" duration="8920000" />
+      <workItem from="1637118890542" duration="871000" />
+      <workItem from="1639039971779" duration="122000" />
+      <workItem from="1639040109730" duration="377000" />
+      <workItem from="1648120209481" duration="52000" />
+      <workItem from="1648120275063" duration="22000" />
+      <workItem from="1648120309471" duration="1781000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1637074215810</created>
@@ -112,16 +198,22 @@
       <option name="project" value="LOCAL" />
       <updated>1637074215810</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="leetcode">
+      <created>1637118929412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637118929412</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="oldMeFiltersMigrated" value="true" />
-=======
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetcode" />
     <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
@@ -136,6 +228,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
->>>>>>> 4088b9452e453a9ff635a3311c80372b0f528003
   </component>
 </project>
