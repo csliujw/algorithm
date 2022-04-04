@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class GetMin {
+class GetMin {
     Stack<Integer> stackData = new Stack<>();
     Stack<Integer> stackMin = new Stack<>();
 

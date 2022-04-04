@@ -4,7 +4,7 @@ package com.payphone.ds.bst;
  * 此版本为递归版本
  * @param <E>
  */
-public class BSTDemo<E extends Comparable<E>> {
+class BSTDemo<E extends Comparable<E>> {
     private class Node {
         public E e;
         public Node left;
