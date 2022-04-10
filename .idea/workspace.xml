@@ -4,31 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="delete one code">
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Leetcode102LevelOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer041MovingAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer042RecentCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer043CBTInserter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer044LargestValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer045FindBottomLeftValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer046RightSideView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/TreeNode.java" afterDir="false" />
+    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="刷了点剑指offer专项突破里的水题。">
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Leetcode114PreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Leetcode94InorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer047PruneTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer049SumNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_102_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/Offer036.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/Offer037AsteroidCollision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer037AsteroidCollision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/Sorted.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer004.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer005.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer006.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer014.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer023.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer18.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +89,7 @@
       <recent name="E:\algorithm\src\com\payphone\ds\imgs" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.payphone.offer2" />
       <recent name="com.payphone.thread" />
     </key>
   </component>
@@ -232,7 +214,7 @@
       <workItem from="1649386414004" duration="39000" />
       <workItem from="1649508695931" duration="578000" />
       <workItem from="1649558658426" duration="20193000" />
-      <workItem from="1649591865484" duration="3458000" />
+      <workItem from="1649591865484" duration="7636000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1637074215810</created>
@@ -311,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649581798889</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="刷了点剑指offer专项突破里的水题。">
+      <created>1649595560522</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1649595560522</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +315,8 @@
     <MESSAGE value="update solutions binary search code" />
     <MESSAGE value="delete one code" />
     <MESSAGE value="update offer" />
-    <option name="LAST_COMMIT_MESSAGE" value="update offer" />
+    <MESSAGE value="刷了点剑指offer专项突破里的水题。" />
+    <option name="LAST_COMMIT_MESSAGE" value="刷了点剑指offer专项突破里的水题。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
