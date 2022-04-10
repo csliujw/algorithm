@@ -1,6 +1,6 @@
 package com.payphone.offer2;
 
-public class _72 {
+public class Offer072 {
     public int mySqrt(int x) {
         int left = 1;
         int right = x - 1;
@@ -14,7 +14,7 @@ public class _72 {
     }
 
     public static void main(String[] args) {
-        _72 v = new _72();
+        Offer072 v = new Offer072();
         System.out.println(v.mySqrt(4));
     }
 }

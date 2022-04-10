@@ -4,9 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="update solutions binary search code">
+    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="delete one code">
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer030RandomizedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer032IsAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer033GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer034IsAlienSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer035FindMinDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer036EvalRPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer037AsteroidCollision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_102_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/Offer036.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/Sorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/_68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer068.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/_69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer069.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/_70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer070.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/_72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer072.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/_73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer073.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer014.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/offer18.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,9 +121,9 @@
       <command value="StringBuffer" />
     </option>
   </component>
-  <component name="RunManager" selected="Application._73">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.BinarySearch" />
+  <component name="RunManager" selected="Application.Offer037AsteroidCollision">
+    <configuration name="Offer029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Offer029" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -108,21 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payphone.Demo" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.payphone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2._70" />
+    <configuration name="Offer030RandomizedSet$RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Offer030RandomizedSet$RandomizedSet" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2._72" />
+    <configuration name="Offer034IsAlienSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Offer034IsAlienSorted" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -147,8 +161,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2._73" />
+    <configuration name="Offer035FindMinDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Offer035FindMinDifference" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -160,24 +174,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="Offer037AsteroidCollision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Offer037AsteroidCollision" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.payphone.offer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._73" />
-        <item itemvalue="Application._72" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application._70" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Offer037AsteroidCollision" />
+        <item itemvalue="Application.Offer035FindMinDifference" />
+        <item itemvalue="Application.Offer034IsAlienSorted" />
+        <item itemvalue="Application.Offer030RandomizedSet$RandomizedSet" />
+        <item itemvalue="Application.Offer029" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +237,8 @@
       <workItem from="1649384245136" duration="1963000" />
       <workItem from="1649386343672" duration="19000" />
       <workItem from="1649386414004" duration="39000" />
-      <workItem from="1649508695931" duration="542000" />
+      <workItem from="1649508695931" duration="578000" />
+      <workItem from="1649558658426" duration="16650000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1637074215810</created>
@@ -266,7 +296,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649509186519</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="delete one code">
+      <created>1649509253523</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649509253523</updated>
+    </task>
+    <task id="LOCAL-00010" summary="delete one code">
+      <created>1649509270148</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649509270148</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +323,8 @@
     <MESSAGE value="leetcode" />
     <MESSAGE value="update solutions LRU" />
     <MESSAGE value="update solutions binary search code" />
-    <option name="LAST_COMMIT_MESSAGE" value="update solutions binary search code" />
+    <MESSAGE value="delete one code" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete one code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -315,7 +360,7 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/_70.java</url>
+          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/Offer070.java</url>
           <line>16</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
@@ -325,14 +370,45 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/_72.java</url>
+          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/Offer072.java</url>
           <line>7</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/_73.java</url>
+          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/Offer073.java</url>
           <line>26</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/Offer029.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/Offer030RandomizedSet.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/Offer035FindMinDifference.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i==60" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/Offer035FindMinDifference.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/Offer035FindMinDifference.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/Offer037AsteroidCollision.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

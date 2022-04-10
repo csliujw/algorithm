@@ -1,6 +1,6 @@
 package com.payphone.offer2;
 
-public class _69 {
+public class Offer069 {
     public int peakIndexInMountainArray(int[] arr) {
         int left = 1, right = arr.length - 2;
         while (left <= right) {

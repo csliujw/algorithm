@@ -1,6 +1,6 @@
 package com.payphone.offer2;
 
-public class _70 {
+public class Offer070 {
     // 直接异或
     public int singleNonDuplicate(int... nums) {
         int ans = 0;
@@ -28,7 +28,7 @@ public class _70 {
     }
 
     public static void main(String[] args) {
-        _70 v = new _70();
+        Offer070 v = new Offer070();
         System.out.println(v.singleNonDuplicate2(1, 1, 2, 2, 3, 3, 4));
     }
 }

@@ -1,6 +1,6 @@
 package com.payphone.offer2;
 
-public class _68 {
+public class Offer068 {
     public int searchInsert(int[] nums, int target) {
         int left = 0, right = nums.length - 1;
         while (left <= right) {
@@ -16,6 +16,6 @@ public class _68 {
     }
 
     public static void main(String[] args) {
-        _68 v = new _68();
+        Offer068 v = new Offer068();
     }
 }

@@ -1,6 +1,6 @@
 package com.payphone.offer2;
 
-public class _73 {
+public class Offer073 {
     public int minEatingSpeed(int[] piles, int h) {
         int left = 1;
         int right = -1;
@@ -34,7 +34,7 @@ public class _73 {
     }
 
     public static void main(String[] args) {
-        _73 v = new _73();
+        Offer073 v = new Offer073();
         int[] s = {10, 15, 16, 18};
         System.out.println(v.getHours(s, 8));
     }
