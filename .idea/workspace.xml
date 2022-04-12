@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="刷了点剑指offer专项突破里的水题。">
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Leetcode114PreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Leetcode94InorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer047PruneTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer049SumNumbers.java" afterDir="false" />
+    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="面试题47 49">
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_04_FindMedianSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_06_Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_357_CountNumbersWithUniqueDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_429_LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_796_RotateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_804_UniqueMorseRepresentations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_806_NumberOfLines.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,9 +101,9 @@
       <command value="StringBuffer" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Offer042RecentCounter">
-    <configuration name="Offer030RandomizedSet$RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Offer030RandomizedSet$RandomizedSet" />
+  <component name="RunManager" selected="Application._06_Convert">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Demo" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -112,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer034IsAlienSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Offer034IsAlienSorted" />
+    <configuration name="_04_FindMedianSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode._04_FindMedianSortedArrays" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.payphone.offer2.*" />
+          <option name="PATTERN" value="com.payphone.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer035FindMinDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Offer035FindMinDifference" />
+    <configuration name="_06_Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode._06_Convert" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.payphone.offer2.*" />
+          <option name="PATTERN" value="com.payphone.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer037AsteroidCollision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Offer037AsteroidCollision" />
+    <configuration name="_357_CountNumbersWithUniqueDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode._357_CountNumbersWithUniqueDigits" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.payphone.offer2.*" />
+          <option name="PATTERN" value="com.payphone.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer042RecentCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Offer042RecentCounter" />
+    <configuration name="_804_UniqueMorseRepresentations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode._804_UniqueMorseRepresentations" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.payphone.offer2.*" />
+          <option name="PATTERN" value="com.payphone.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,13 +178,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application._357_CountNumbersWithUniqueDigits" />
+      <item itemvalue="Application._804_UniqueMorseRepresentations" />
+      <item itemvalue="Application._04_FindMedianSortedArrays" />
+      <item itemvalue="Application._06_Convert" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Offer042RecentCounter" />
-        <item itemvalue="Application.Offer037AsteroidCollision" />
-        <item itemvalue="Application.Offer035FindMinDifference" />
-        <item itemvalue="Application.Offer034IsAlienSorted" />
-        <item itemvalue="Application.Offer030RandomizedSet$RandomizedSet" />
+        <item itemvalue="Application._06_Convert" />
+        <item itemvalue="Application._04_FindMedianSortedArrays" />
+        <item itemvalue="Application._804_UniqueMorseRepresentations" />
+        <item itemvalue="Application._357_CountNumbersWithUniqueDigits" />
+        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +224,10 @@
       <workItem from="1649386414004" duration="39000" />
       <workItem from="1649508695931" duration="578000" />
       <workItem from="1649558658426" duration="20193000" />
-      <workItem from="1649591865484" duration="7636000" />
+      <workItem from="1649591865484" duration="7948000" />
+      <workItem from="1649646073562" duration="10183000" />
+      <workItem from="1649684223428" duration="19000" />
+      <workItem from="1649757078874" duration="12165000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1637074215810</created>
@@ -300,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649595560522</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="面试题47 49">
+      <created>1649602418443</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1649602418443</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +336,8 @@
     <MESSAGE value="delete one code" />
     <MESSAGE value="update offer" />
     <MESSAGE value="刷了点剑指offer专项突破里的水题。" />
-    <option name="LAST_COMMIT_MESSAGE" value="刷了点剑指offer专项突破里的水题。" />
+    <MESSAGE value="面试题47 49" />
+    <option name="LAST_COMMIT_MESSAGE" value="面试题47 49" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -396,6 +417,29 @@
           <url>file://$PROJECT_DIR$/src/com/payphone/offer2/Offer035FindMinDifference.java</url>
           <line>35</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/concurrent/atomic/AtomicReference.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/_357_CountNumbersWithUniqueDigits.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/_06_Convert.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/_804_UniqueMorseRepresentations.java</url>
+          <line>18</line>
+          <properties class="com.payphone.leetcode._804_UniqueMorseRepresentations" method="toPassword">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
