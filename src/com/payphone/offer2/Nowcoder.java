@@ -1,4 +1,4 @@
-package com.payphone;
+package com.payphone.offer2;
 
 import java.util.Arrays;
 import java.util.Scanner;
