@@ -4,41 +4,100 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="菜鸡码农的一天">
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0199.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0429.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0515.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0559.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0637.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_096NumTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_107_LevelOrderBottom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_304_NumMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_883_ProjectionArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer031ValidateStackSequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer032LevelOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer033VerifyPostorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer034PathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer036TreeToDoublyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer042MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer048LengthOfLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer053MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer053Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer054KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer056SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer056SingleNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer058ReverseLeftWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/TreeNode.java" afterDir="false" />
+    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="菜鸡码农的一天,刷尽 leetcode 简单题">
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0001TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0002AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0003LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0015ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0049GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0094InorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0114PreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0146LRU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0208Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0242IsAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0344ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0383CanConstruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0438FindAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0908SmallestRangeI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/N0102LevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer2/Offer031LRU.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_208_Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_208_Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_09_CQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/_09_CQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/TreeMapDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/Two.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/codetop/FindKthLargest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/codetop/LRUCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/codetop/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/codetop/RandomizedSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/codetop/ReverseKGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/codetop/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/lc/simple/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/lc/simple/MoveZero_283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0283MoveZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/lc/simple/SortColors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/lc/simple/TwoSum_167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0167TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/lc/simple/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/lc/simple/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/lc/simple/img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/lc/simple/img_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/lc/simple/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/N0101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0101IsSymmetric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/N0104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0104MaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/N0111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0111MinDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/N0116.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0116Connect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/N0117.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0117Connect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/N0199.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0199RightSideView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/N0226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0226InvertTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/N0429.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0429LevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/N0515.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0515LargestValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/N0559.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0559MaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/N0637.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0637AverageOfLevels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/Acwing077ReverseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_01_TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_02_AddTwoNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_03_LengthOfLongestSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_04_FindMedianSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0004FindMedianSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_05_LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0005LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_06_Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0006Convert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_07_ReverNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0007ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_07_Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_08_MyAtoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_096NumTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0096NumTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_09_IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0009IsPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_10_majorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0010MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_11_MaxArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0011MaxArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_146_LRU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_14_LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0014LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_1512_numIdenticalPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N1512NumIdenticalPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_1523_countOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N1523CountOdds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_190_ReverseBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0190ReverseBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_208_Trie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_824_ToGoatLatin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0824ToGoatLatin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_883_ProjectionArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0883ProjectionArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_961_repeatedNTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0961RepeatedNTimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/Count_binary_one.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/Offer_24_reverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer024ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_03_findRepeatNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer003FindRepeatNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_04_findNumberIn2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer004FindNumberIn2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_05_replaceSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer005ReplaceSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_06_reversePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer006ReversePrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_09_CQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer009CQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_10_1_fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer010FibⅠ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_10_2_fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer010Fib2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_11_minArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer011MinArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_15_hammingWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer015HammingWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_16_myPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer016MyPow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_17_printNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer017PrintNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_18_deleteNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer018DeleteNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_21_exchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer021Exchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_22_getKthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer022GetKthFromEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_24_reverseList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_25_mergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer025MergeTwoLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer/_58_1_reverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer058ReverseWords1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/Leetcode102LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0102LevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/Leetcode114PreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer2/N0114PreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/Leetcode94InorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/offer2/N0094InorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/offer2/Nowcoder.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +159,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ddstudy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/payphone/leetcode" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -113,6 +172,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Java\algorithm\src\com\payphone\leetcode" />
       <recent name="E:\algorithm\src\com\payphone\interview" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -130,13 +190,13 @@
       <command value="StringBuffer" />
     </option>
   </component>
-  <component name="RunManager" selected="Application._09_CQueue">
-    <configuration name="_09_CQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer._09_CQueue" />
+  <component name="RunManager" selected="JUnit.N0003LengthOfLongestSubstring">
+    <configuration name="Offer031LRU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Offer031LRU" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.payphone.offer.*" />
+          <option name="PATTERN" value="com.payphone.leetcode.N0007ReverseNumber" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,75 +204,73 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Offer053MissingNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.payphone.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.payphone.offer" />
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer.Offer053MissingNumber" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer056SingleNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="N0003LengthOfLongestSubstring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.payphone.offer.*" />
+          <option name="PATTERN" value="com.payphone.leetcode.N0007ReverseNumber" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.payphone.offer" />
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer.Offer056SingleNumber" />
+      <option name="PACKAGE_NAME" value="com.payphone.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode.N0003LengthOfLongestSubstring" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer056SingleNumber.f1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="N0003LengthOfLongestSubstring.f1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.payphone.offer.*" />
+          <option name="PATTERN" value="com.payphone.leetcode.N0007ReverseNumber" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.payphone.offer" />
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer.Offer056SingleNumber" />
+      <option name="PACKAGE_NAME" value="com.payphone.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode.N0003LengthOfLongestSubstring" />
       <option name="METHOD_NAME" value="f1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer056SingleNumbers.f1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="N0438FindAnagrams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.payphone.offer.*" />
+          <option name="PATTERN" value="com.payphone.leetcode.N0007ReverseNumber" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.payphone.offer" />
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer.Offer056SingleNumbers" />
+      <option name="PACKAGE_NAME" value="com.payphone.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode.N0438FindAnagrams" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N0438FindAnagrams.f1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.payphone.leetcode.N0007ReverseNumber" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.payphone.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode.N0438FindAnagrams" />
       <option name="METHOD_NAME" value="f1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -220,19 +278,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._09_CQueue" />
-      <item itemvalue="JUnit.Offer056SingleNumbers.f1" />
-      <item itemvalue="JUnit.Offer056SingleNumber" />
-      <item itemvalue="JUnit.Offer056SingleNumber.f1" />
-      <item itemvalue="JUnit.Offer053MissingNumber" />
+      <item itemvalue="Application.Offer031LRU" />
+      <item itemvalue="JUnit.N0003LengthOfLongestSubstring" />
+      <item itemvalue="JUnit.N0003LengthOfLongestSubstring.f1" />
+      <item itemvalue="JUnit.N0438FindAnagrams" />
+      <item itemvalue="JUnit.N0438FindAnagrams.f1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._09_CQueue" />
-        <item itemvalue="JUnit.Offer053MissingNumber" />
-        <item itemvalue="JUnit.Offer056SingleNumber" />
-        <item itemvalue="JUnit.Offer056SingleNumber.f1" />
-        <item itemvalue="JUnit.Offer056SingleNumbers.f1" />
+        <item itemvalue="JUnit.N0003LengthOfLongestSubstring" />
+        <item itemvalue="JUnit.N0003LengthOfLongestSubstring.f1" />
+        <item itemvalue="Application.Offer031LRU" />
+        <item itemvalue="JUnit.N0438FindAnagrams.f1" />
+        <item itemvalue="JUnit.N0438FindAnagrams" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +347,8 @@
       <workItem from="1650879169570" duration="7933000" />
       <workItem from="1650970669310" duration="3269000" />
       <workItem from="1650978504322" duration="17693000" />
-      <workItem from="1651188826372" duration="9175000" />
+      <workItem from="1651188826372" duration="20209000" />
+      <workItem from="1651295081893" duration="9850000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1637074215810</created>
@@ -410,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650896540331</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="菜鸡码农的一天,刷尽 leetcode 简单题">
+      <created>1651200570326</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1651200570326</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,13 +494,14 @@
     <MESSAGE value="刷了点剑指offer专项突破里的水题。" />
     <MESSAGE value="面试题47 49" />
     <MESSAGE value="菜鸡码农的一天" />
-    <option name="LAST_COMMIT_MESSAGE" value="菜鸡码农的一天" />
+    <MESSAGE value="菜鸡码农的一天,刷尽 leetcode 简单题" />
+    <option name="LAST_COMMIT_MESSAGE" value="菜鸡码农的一天,刷尽 leetcode 简单题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/payphone/offer/_03_findRepeatNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/com/payphone/offer/Offer003FindRepeatNumber.java</url>
           <line>53</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -520,7 +587,7 @@
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/_06_Convert.java</url>
+          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/N0006Convert.java</url>
           <line>30</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
@@ -600,11 +667,6 @@
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/Nowcoder.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="106" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/_386_LexicalOrder.java</url>
           <line>34</line>
           <option name="timeStamp" value="110" />
@@ -625,7 +687,7 @@
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/_06_Convert.java</url>
+          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/N0006Convert.java</url>
           <line>19</line>
           <option name="timeStamp" value="118" />
         </line-breakpoint>
@@ -650,12 +712,12 @@
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/_824_ToGoatLatin.java</url>
+          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/N0824ToGoatLatin.java</url>
           <line>43</line>
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/_824_ToGoatLatin.java</url>
+          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/N0824ToGoatLatin.java</url>
           <line>15</line>
           <option name="timeStamp" value="125" />
         </line-breakpoint>
@@ -699,6 +761,31 @@
           <url>file://$PROJECT_DIR$/src/com/payphone/offer/Offer056SingleNumber.java</url>
           <line>25</line>
           <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/N0049GroupAnagrams.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/N0438FindAnagrams.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/N0438FindAnagrams.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/payphone/offer2/Offer031LRU.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/N0003LengthOfLongestSubstring.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="162" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/_804_UniqueMorseRepresentations.java</url>

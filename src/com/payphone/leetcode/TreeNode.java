@@ -1,6 +1,6 @@
 package com.payphone.leetcode;
 
-class TreeNode {
+public class TreeNode {
     int val;
     TreeNode left;
     TreeNode right;
