@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Scanner;
 import java.util.Stack;
 
-class GetMin {
+public class GetMin {
     Stack<Integer> stackData = new Stack<>();
     Stack<Integer> stackMin = new Stack<>();
 
@@ -36,14 +36,14 @@ class GetMin {
 
     public static void test() {
         Scanner in = new Scanner(System.in);
-        int count = Integer.valueOf(in.nextLine());
+        int count = Integer.parseInt(in.nextLine());
 
         GetMin mystack = new GetMin();
         // 注意 hasNext 和 hasNextLine 的区别
         while (count > 0) { // 注意 while 处理多个 case
             String[] op = in.nextLine().split(" ");
             if (op[0].equals("push")) {
-                mystack.push(Integer.valueOf(op[1]));
+                mystack.push(Integer.parseInt(op[1]));
             } else if (op[0].equals("pop")) {
                 mystack.pop();
             } else {
@@ -56,12 +56,12 @@ class GetMin {
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        int cout = Integer.valueOf(reader.readLine());
+        int cout = Integer.parseInt(reader.readLine());
         GetMin getMin = new GetMin();
         while (cout > 0) {
             String[] op = reader.readLine().split(" ");
             if (op[0].equals("push")) {
-                getMin.push(Integer.valueOf(op[1]));
+                getMin.push(Integer.parseInt(op[1]));
             } else if (op[0].equals("pop")) {
                 getMin.pop();
             } else {

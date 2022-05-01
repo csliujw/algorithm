@@ -1,5 +1,6 @@
 package com.payphone.leetcode;
 
+@SuppressWarnings("all")
 public class TreeNode {
     int val;
     TreeNode left;
