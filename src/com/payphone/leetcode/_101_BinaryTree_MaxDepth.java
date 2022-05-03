@@ -1,8 +1,6 @@
 package com.payphone.leetcode;
 
 
-import com.payphone.leetcode.structure.TreeNode;
-
 /**
  * - 本质上就是求树的最大深度
  * 递归

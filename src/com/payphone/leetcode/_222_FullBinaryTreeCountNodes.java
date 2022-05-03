@@ -1,6 +1,5 @@
 package com.payphone.leetcode;
 
-import com.payphone.leetcode.structure.TreeNode;
 
 public class _222_FullBinaryTreeCountNodes {
     public int countNodes(TreeNode root) {

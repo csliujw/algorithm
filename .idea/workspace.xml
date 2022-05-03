@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="菜鸡码农的一天,整理代码">
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0290.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/offer/Offer012Exist.java" afterDir="false" />
+    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="菜鸡码农的一天，今天学到了 dfs，刷了一道 dfs 的模板题。">
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0937ReorderLogFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_20.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_101_BinaryTree_MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_101_BinaryTree_MaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_111_BinaryTree_Min_Depth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_111_BinaryTree_Min_Depth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_222_FullBinaryTreeCountNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_222_FullBinaryTreeCountNodes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +36,12 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/concurrent/RunnableFuture.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/concurrent/FutureTask.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -94,7 +105,7 @@
       <command value="StringBuffer" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.N0290">
+  <component name="RunManager" selected="JUnit.N0937ReorderLogFiles">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -104,19 +115,6 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Offer031LRU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payphone.offer2.Offer031LRU" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.payphone.leetcode.N0007ReverseNumber" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,22 +130,6 @@
       <option name="PACKAGE_NAME" value="com.payphone.leetcode" />
       <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode.N0003LengthOfLongestSubstring" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="N0003LengthOfLongestSubstring.f1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.payphone.leetcode.N0007ReverseNumber" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.payphone.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode.N0003LengthOfLongestSubstring" />
-      <option name="METHOD_NAME" value="f1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -183,20 +165,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="N0937ReorderLogFiles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.payphone.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.payphone.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode.N0937ReorderLogFiles" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N0937ReorderLogFiles.f1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.payphone.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.payphone.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.payphone.leetcode.N0937ReorderLogFiles" />
+      <option name="METHOD_NAME" value="f1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Offer031LRU" />
       <item itemvalue="JUnit.N0003LengthOfLongestSubstring" />
-      <item itemvalue="JUnit.N0003LengthOfLongestSubstring.f1" />
       <item itemvalue="JUnit.N0290.t1" />
       <item itemvalue="JUnit.N0290" />
+      <item itemvalue="JUnit.N0937ReorderLogFiles.f1" />
+      <item itemvalue="JUnit.N0937ReorderLogFiles" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.N0937ReorderLogFiles" />
+        <item itemvalue="JUnit.N0937ReorderLogFiles.f1" />
         <item itemvalue="JUnit.N0290" />
         <item itemvalue="JUnit.N0290.t1" />
         <item itemvalue="JUnit.N0003LengthOfLongestSubstring" />
-        <item itemvalue="JUnit.N0003LengthOfLongestSubstring.f1" />
-        <item itemvalue="Application.Offer031LRU" />
       </list>
     </recent_temporary>
   </component>
@@ -256,6 +269,7 @@
       <workItem from="1651188826372" duration="20209000" />
       <workItem from="1651295081893" duration="10536000" />
       <workItem from="1651373914114" duration="9520000" />
+      <workItem from="1651563265504" duration="2084000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1637074215810</created>
@@ -397,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651415698370</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="菜鸡码农的一天，水二叉树的题。">
+      <created>1651500069549</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1651500069549</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,7 +447,8 @@
     <MESSAGE value="菜鸡码农的一天" />
     <MESSAGE value="菜鸡码农的一天,刷尽 leetcode 简单题" />
     <MESSAGE value="菜鸡码农的一天,整理代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="菜鸡码农的一天,整理代码" />
+    <MESSAGE value="菜鸡码农的一天，水二叉树的题。" />
+    <option name="LAST_COMMIT_MESSAGE" value="菜鸡码农的一天，水二叉树的题。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -721,7 +743,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/_804_UniqueMorseRepresentations.java</url>
           <line>18</line>
-          <properties class="com.payphone.leetcode._804_UniqueMorseRepresentations">
+          <properties class="com.payphone.leetcode._804_UniqueMorseRepresentations" method="toPassword">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="51" />

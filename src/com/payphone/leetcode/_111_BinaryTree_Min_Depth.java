@@ -1,6 +1,5 @@
 package com.payphone.leetcode;
 
-import com.payphone.leetcode.structure.TreeNode;
 
 public class _111_BinaryTree_Min_Depth {
 
