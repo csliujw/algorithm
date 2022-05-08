@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="菜鸡码农的一天，今天学到了 dfs，刷了一道 dfs 的模板题。">
-      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0937ReorderLogFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_17_11_20.xml" afterDir="false" />
+    <list default="true" id="0b40c694-79d3-4577-bada-18bdee69a63b" name="Changes" comment="菜鸡码农的一天，leetcode 每日一题。">
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0345ReverseVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/N0633JudgeSquareSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_101_BinaryTree_MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_101_BinaryTree_MaxDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_111_BinaryTree_Min_Depth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_111_BinaryTree_Min_Depth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_222_FullBinaryTreeCountNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_222_FullBinaryTreeCountNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/payphone/leetcode/_46_Permute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/payphone/leetcode/_46_Permute.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,7 +265,11 @@
       <workItem from="1651188826372" duration="20209000" />
       <workItem from="1651295081893" duration="10536000" />
       <workItem from="1651373914114" duration="9520000" />
-      <workItem from="1651563265504" duration="2084000" />
+      <workItem from="1651563265504" duration="3483000" />
+      <workItem from="1651644531823" duration="5002000" />
+      <workItem from="1651806091263" duration="1382000" />
+      <workItem from="1651998463653" duration="210000" />
+      <workItem from="1652016828237" duration="2013000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1637074215810</created>
@@ -418,7 +418,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651500069549</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="菜鸡码农的一天，leetcode 每日一题。">
+      <created>1651566449590</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1651566449590</updated>
+    </task>
+    <task id="LOCAL-00023" summary="菜鸡码农的一天，leetcode 。">
+      <created>1651586893533</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1651586893533</updated>
+    </task>
+    <task id="LOCAL-00024" summary="菜鸡码农的一天，leetcode 每日一题。">
+      <created>1651673630086</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1651673630086</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +469,9 @@
     <MESSAGE value="菜鸡码农的一天,刷尽 leetcode 简单题" />
     <MESSAGE value="菜鸡码农的一天,整理代码" />
     <MESSAGE value="菜鸡码农的一天，水二叉树的题。" />
-    <option name="LAST_COMMIT_MESSAGE" value="菜鸡码农的一天，水二叉树的题。" />
+    <MESSAGE value="菜鸡码农的一天，leetcode 。" />
+    <MESSAGE value="菜鸡码农的一天，leetcode 每日一题。" />
+    <option name="LAST_COMMIT_MESSAGE" value="菜鸡码农的一天，leetcode 每日一题。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -661,7 +684,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/payphone/leetcode/_46_Permute.java</url>
-          <line>16</line>
+          <line>14</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

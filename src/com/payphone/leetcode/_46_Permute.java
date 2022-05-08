@@ -1,13 +1,11 @@
 package com.payphone.leetcode;
 
-import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class _46_Permute {
 
-    @Test
     public void f1() {
         permute(1, 2, 3);
     }
